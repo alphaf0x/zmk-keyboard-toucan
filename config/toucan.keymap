@@ -70,9 +70,9 @@
         nav {
             display-name = "NAV";
             bindings = <
-                &trans     &mkp LCLK       &mmv MOVE_UP   &mkp RCLK       &mkp MCLK       &trans         &kp HOME       &kp PG_DN      &kp PG_UP      &kp END        &trans             &trans
-                &trans     &kp LCTRL       &kp LALT       &kp LGUI        &kp LSHFT       &trans         &kp LEFT       &kp DOWN       &kp UP         &kp RIGHT      &trans             &trans
-                &trans     &trans          &mmv MOVE_LEFT &mmv MOVE_DOWN  &mmv MOVE_RIGHT &trans         &kp INS        &kp DEL        &trans         &trans         &trans             &trans
+                &mkp MB4   &mkp MB5        &trans         &mkp RCLK       &mkp MCLK       &msc SCRL_LEFT &kp HOME       &kp PG_DN      &kp PG_UP      &kp END        &mmv MOVE_UP       &mmv MOVE_LEFT
+                &trans     &kp LCTRL       &kp LALT       &kp LGUI        &kp LSHFT       &mkp LCLK      &kp LEFT       &kp DOWN       &kp UP         &kp RIGHT      &mmv MOVE_DOWN     &mmv MOVE_RIGHT
+                &trans     &trans          &trans         &trans          &trans          &msc SCRL_RIGHT &kp INS        &kp DEL        &trans         &trans         &trans             &trans
                                                           &trans          &trans          &trans         &trans         &trans         &trans
             >;
         };
