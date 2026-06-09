@@ -53,6 +53,12 @@
             key-positions = <11 41>;
             bindings = <&tog DOTA>;
         };
+
+        combo_caps {
+            timeout-ms = <50>;
+            key-positions = <12 40>;
+            bindings = <&kp CAPS>;
+        };
     };
 
     conditional_layers {
