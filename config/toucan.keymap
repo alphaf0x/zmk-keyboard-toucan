@@ -116,8 +116,8 @@
             display-name = "DOTA";
             bindings = <
   &kp N1      &kp N2   &kp N3   &kp N4    &kp N5        &ht F1 X        &kp F9   &kp F5   &kp F6   &kp HOME &trans   &kp N
-  &kp GRAVE   &kp Q    &kp W    &kp E     &kp R         &kp LCTRL       &trans   &trans   &trans   &trans   &trans   &kp F2
-  &kp A       &kp S    &ht G U  &kp D     &kp F         &ht LSHFT TAB   &trans   &trans   &trans   &trans   &trans   &trans
+  &kp GRAVE   &kp Q    &kp W    &kp E     &kp R         &kp LCTRL       &kp Y    &trans   &trans   &trans   &trans   &kp F2
+  &kp A       &kp S    &ht U G  &kp D     &kp F         &ht LSHFT TAB   &trans   &trans   &trans   &trans   &trans   &trans
                                 &ht C T   &kp LALT      &kp SPACE       &trans   &trans   &trans
             >;
         };
