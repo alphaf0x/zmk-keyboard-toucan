@@ -77,7 +77,7 @@
             bindings = <
   &kp TAB     &kp Q            &kp W           &kp E           &kp R            &kp T               &kp Y           &kp U            &kp I           &kp O           &kp P               &kp BSPC
   &kp ESC     &hrm_l LCTRL A   &hrm_l LALT S   &hrm_l LGUI D   &hrm_l LSHFT F   &kp G               &kp H           &hrm_r RSHFT J   &hrm_r RGUI K   &hrm_r RALT L   &hrm_r RCTRL SEMI   &kp SQT
-  &kp LSHFT   &kp Z            &kp X           &ht LGUI(C) C   &ht LGUI(V) V    &kp B               &kp N           &kp M            &kp COMMA       &kp DOT         &kp FSLH            &kp GRAVE
+  &kp LSHFT   &kp Z            &kp X           &ht LG(C) C     &ht LG(V) V      &kp B               &kp N           &kp M            &kp COMMA       &kp DOT         &kp FSLH            &kp GRAVE
                                                &lt BLUE TAB    &lt NAV BSPC     &lt SYM SPACE       &ht ESC SPACE   &kp RET          &kp DEL
             >;
         };
